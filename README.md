@@ -36,7 +36,6 @@ Started my career at the age of Sixteen (16) as a Graphic Designer. I have four 
 [![Instagram](https://img.shields.io/badge/alizubu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alizubu/)&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/alizubu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/alizubu/)&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/alizubu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alizubu//)&nbsp;&nbsp;&nbsp;
-<br>
 [![telegram](https://img.shields.io/badge/alizubu-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alizubu/)&nbsp;&nbsp;&nbsp;
 [![Dribbble](https://img.shields.io/badge/aliZubu-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/alizubu)&nbsp;&nbsp;&nbsp;
 [![Behance](https://img.shields.io/badge/alizubu-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.com/alizubu)&nbsp;&nbsp;&nbsp;
